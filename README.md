@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-* 🌍  I'm based in Irvine, California, US
+* 🌍  I'm based in Los Angeles, California, US
 * 🖥️  See my portfolio at [My projects](http://AlonaAstakhova.github.io/CV)
 * ✉️  You can contact me at [alyonasta@gmail.com](mailto:alyonasta@gmail.com)
 * 🚀  I'm currently working on [Book Library](http://alonaastakhova.github.io/Book-Library/)
